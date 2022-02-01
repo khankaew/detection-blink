@@ -1,6 +1,7 @@
-# Detection blink, Getting Started with React App
+# Detection blink
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With Tensorflow Face Landmarks Detection.
+Getting Started with React App.
 
 ## Available Scripts
 
